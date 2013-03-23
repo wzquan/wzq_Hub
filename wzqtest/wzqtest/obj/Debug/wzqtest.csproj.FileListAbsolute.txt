@@ -1,0 +1,5 @@
+D:\web编程\wzqtest\wzqtest\bin\wzqtest.dll
+D:\web编程\wzqtest\wzqtest\bin\wzqtest.pdb
+D:\web编程\wzqtest\wzqtest\obj\Debug\ResolveAssemblyReference.cache
+D:\web编程\wzqtest\wzqtest\obj\Debug\wzqtest.dll
+D:\web编程\wzqtest\wzqtest\obj\Debug\wzqtest.pdb
